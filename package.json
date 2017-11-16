@@ -1,0 +1,22 @@
+{
+  "name": "testing-lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lurique/testing-lodash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lurique/testing-lodash/issues"
+  },
+  "homepage": "https://github.com/lurique/testing-lodash#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
+}
